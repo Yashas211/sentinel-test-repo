@@ -1,1 +1,1 @@
-const myApiToken = "ghp_LIVE_TEST_TOKEN_FOR_DEMO_120988007860";
+const myApiToken = "ghp_LIVE_TEST_TOKEN_FOR_DEMO_10988007860";
